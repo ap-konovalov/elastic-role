@@ -1,5 +1,7 @@
 galaxy_info:
-  author: Alexey Metlyakov
+  role_name: elastic_role
+  namespace: ap_konovalov
+  author: ap-konovalov
   description: Install elasticsearch from remote server
   company: Netology
 
@@ -8,7 +10,7 @@ galaxy_info:
   # issue_tracker_url: http://example.com/issue/tracker
 
   # Choose a valid license ID from https://spdx.org - some suggested licenses:
-  # - BSD-3-Clause (default)
+  # - cdBSD-3-Clause (default)
   # - MIT
   # - GPL-2.0-or-later
   # - GPL-3.0-only
